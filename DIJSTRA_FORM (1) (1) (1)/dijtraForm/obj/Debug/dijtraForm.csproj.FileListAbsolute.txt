@@ -1,0 +1,236 @@
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\bin\Debug\dijtraForm.exe.config
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\bin\Debug\dijtraForm.exe
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\bin\Debug\dijtraForm.pdb
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.exe
+C:\Users\Hoang Hai\source\repos\dijtraForm\dijtraForm\obj\Debug\dijtraForm.pdb
+E:\dijtraForm\dijtraForm\bin\Debug\dijtraForm.exe.config
+E:\dijtraForm\dijtraForm\bin\Debug\dijtraForm.exe
+E:\dijtraForm\dijtraForm\bin\Debug\dijtraForm.pdb
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.exe
+E:\dijtraForm\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\dijtraForm (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\dijtraForm (1)\dijtraForm\bin\Debug\dijtraForm.exe
+D:\dijtraForm (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.exe
+D:\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\myprogram\dijtraForm (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\myprogram\dijtraForm (1)\dijtraForm\bin\Debug\dijtraForm.exe
+D:\myprogram\dijtraForm (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.exe
+D:\myprogram\dijtraForm (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+C:\dijtraForm (1) (2)\dijtraForm\bin\Debug\dijtraForm.exe.config
+C:\dijtraForm (1) (2)\dijtraForm\bin\Debug\dijtraForm.exe
+C:\dijtraForm (1) (2)\dijtraForm\bin\Debug\dijtraForm.pdb
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.exe
+C:\dijtraForm (1) (2)\dijtraForm\obj\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.exe.config
+E:\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM\DIJSTRA_FORM\dijtraForm\obj\Debug\dijtraForm.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.exe
+C:\Users\ADMIN\OneDrive\Desktop\Học Tập\LTW\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+E:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+D:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.exe
+C:\Users\ADMIN\Downloads\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+C:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+C:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.exe
+C:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+C:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+C:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+C:\DIJSTRA_FORM (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.exe
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+C:\DIJSTRA_FORM (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.exe
+D:\setup\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.exe
+D:\DIJSTRA_FORM (1) (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.exe
+E:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.exe
+C:\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.pdb
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe.config
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.exe
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\dijtraForm.pdb
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\Guna.UI2.dll
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.dll
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\bin\Debug\HelixToolkit.Wpf.xml
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.AssemblyReference.cache
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Form1.resources
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.frmIntruction.resources
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Group.resources
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.Properties.Resources.resources
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.GenerateResource.cache
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.CoreCompileInputs.cache
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.csproj.Up2Date
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.exe
+D:\Project4\DIJSTRA_FORM (1) (1) (1)\dijtraForm\obj\Debug\dijtraForm.pdb
